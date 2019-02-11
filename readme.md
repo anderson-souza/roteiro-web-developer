@@ -5,8 +5,8 @@
   <h2 align="center">Roteiro do Desenvolvedor Web</h2>
   <p align="center">Roteiro para se tornar um Desenvolvedor Web em 2019</p>
   <p align="center">
-    <a href="https://github.com/kamranahmedse/developer-roadmap#-introduction"><img src="https://img.shields.io/badge/Roadmap-2019-yellowgreen.svg"/></a>
-    <a href="https://github.com/kamranahmedse/developer-roadmap/releases"><img src="https://img.shields.io/badge/Roadmaps-Past-yellow.svg"/></a>  
+    <a href="https://github.com/anderson-souza/roteiro-web-developer#introdu%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/Roteiro-2019-yellowgreen.svg"/></a>
+    <img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs(pt--br)-brightgreen.svg">
   </p>
   <br>
 </p>
@@ -28,7 +28,7 @@ Abaixo você encontrará uma série de gráficos que demonstram os caminhos que 
 
 ## Roteiro Back-end
 
-![Roteiro Back-end](./images/backend.png)
+![Roteiro Back-end](./images/backend_pt-br.png)
 
 ## Roteiro DevOps
 
@@ -38,15 +38,6 @@ Abaixo você encontrará uma série de gráficos que demonstram os caminhos que 
 
 Se você acredita que este roteiro pode ser melhorado, por favor abra um Pull Request com as atualizações e também abra um Issues.
 
-## 🙌 Contribution
-
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-- Open pull request with improvements
-- Discuss ideas in issues
-- Spread the word
-- Reach out with any feedback [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
- 
-## License
+## Licença
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
