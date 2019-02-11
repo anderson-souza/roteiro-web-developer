@@ -33,7 +33,7 @@ Abaixo você encontrará uma série de gráficos que demonstram os caminhos que 
 
 ## Roteiro DevOps
 
-![Roteiro DevOps](./images/devops.png)
+![Roteiro DevOps](./images/devops_pt-br.png)
 
 ## 🚦 Fique ligado!
 
