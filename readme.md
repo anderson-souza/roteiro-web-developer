@@ -6,10 +6,11 @@
   <p align="center">Roteiro para se tornar um Desenvolvedor Web em 2019</p>
   <p align="center">
     <a href="https://github.com/anderson-souza/roteiro-web-developer#introdu%C3%A7%C3%A3o"><img src="https://img.shields.io/badge/Roteiro-2019-yellowgreen.svg"/></a>
-    <img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs(pt--br)-brightgreen.svg">
+      <a href="#"><img src="https://img.shields.io/badge/Idioma-Portugu%C3%AAs(pt--br)-brightgreen.svg"/></a>
   </p>
   <br>
 </p>
+
 
 Abaixo você encontrará uma série de gráficos que demonstram os caminhos que você pode tomar e quais as tecnologias você deveria adotar para se tonar um desenvolvedor frontend, backend ou devops. Estes gráficos foram desenvolvidos originalmente por Kamran Ahmed, eu apenas fiz a tradução para Português(pt-br) com o intuito de auxiliar aqueles que não dominam a leitura da língua inglesa. 
 
